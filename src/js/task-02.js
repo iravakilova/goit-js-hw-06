@@ -18,4 +18,3 @@ ulIngredients.innerHTML = item;
   newIngredient.classList.add("item");
 ulIngredients.appendChild(newIngredient);
   
-
